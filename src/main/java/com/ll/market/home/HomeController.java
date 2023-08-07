@@ -1,4 +1,4 @@
-package com.ll.market;
+package com.ll.market.home;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
